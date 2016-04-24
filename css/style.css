@@ -1,0 +1,53 @@
+/*font-family: 'Source Sans Pro', sans-serif;
+font-family: 'Ubuntu', sans-serif;*/
+
+body {
+  background: #eee;
+  color: #444;
+  text-shadow: 1px 1px 0 #fff;
+  font-family: 'Source Sans Pro', sans-serif;
+  text-align: center;
+}
+
+.options {
+  margin-top: 225px;
+}
+
+.options .figure {
+  margin: 0 25px;
+  text-align: center;
+}
+
+.options img {
+  height: 50px;
+  width: auto;
+  border-radius: 0;
+}
+
+.figure-caption {
+  margin-top: 10px;
+}
+
+a {
+  color: #0083ED;
+}
+
+a:hover {
+  color: #444;
+  text-decoration: none;
+}
+
+.social {
+  margin-top: 75px !important;
+}
+
+.social .figure {
+  margin: 0 10px;
+  text-align: center;
+}
+
+.social .figure .img-rounded {
+  height: 35px;
+  width: auto;
+  border-radius: 0;
+}
