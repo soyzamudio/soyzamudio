@@ -46,7 +46,3 @@ staff engineer / sdk architect / agent-tooling builder
 ## 📫 Reach me
 
 [soyzamudio.com](https://soyzamudio.com) · [LinkedIn](https://linkedin.com/in/josezamudio) · jose@soyzamudio.com
-
----
-
-<img src="https://github-readme-stats.vercel.app/api?username=soyzamudio&show_icons=true&hide_border=true&bg_color=f4f3ee&text_color=0a0a0a&title_color=0a0a0a&icon_color=e8442e&hide_rank=true" alt="GitHub stats" height="150" />
