@@ -21,6 +21,7 @@ staff engineer / sdk architect / agent-tooling builder
 | [Handset](https://handset.dev) | Developer-first business phone API + open-source UI kit, built to be LLM-consumable | TypeScript · Next.js |
 | [IncidentOPS](https://incidentops.io) | Real-time incident management for Slack | TypeScript · Node.js |
 | [ReferralLoop](https://referralloop.dev) | API-driven referral and growth platform | Next.js · Supabase |
+| [useKeyBinding](https://github.com/soyzamudio/useKeyBinding) | Lightweight, type-safe React hook for cross-platform keyboard shortcuts | TypeScript · React |
 | [next-gtag](https://github.com/soyzamudio/next-gtag) | Google Tag + GTM hooks for Next.js | TypeScript |
 
 ## 🔧 Tech I reach for
